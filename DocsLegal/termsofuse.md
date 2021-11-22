@@ -6,17 +6,16 @@ author: ''
 manager: ''
 ms.date: 09/19/2018
 ms.topic: article
-ms.prod: ''
-ms.service: ''
+ms.prod: legal
 ms.technology: ''
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
-ms.openlocfilehash: 07d175c205ed781a0eef363d4e4015810c53c3bb
-ms.sourcegitcommit: 6925c5b4ad2faff22d877acd2e07e09d289b5507
+ms.openlocfilehash: 904b079bf9580699105e1f73836cb8f1127c101f
+ms.sourcegitcommit: 3cfbabd1cd8dac0925815ab42ae1640787749fb7
 ms.translationtype: HT
 ms.contentlocale: fr-BE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "77570874"
+ms.lasthandoff: 08/14/2021
+ms.locfileid: "122177365"
 ---
 # <a name="docsmicrosoftcom---terms-of-use"></a>docs.microsoft.com - Conditions d’utilisation
 
@@ -34,7 +33,7 @@ Sauf disposition contraire, les Services sont destinés à une utilisation perso
 
 ## <a name="privacy-and-protection-of-personal-information"></a>Protection des données personnelles
 
-La protection de vos données personnelles est importante à nos yeux. Veuillez lire la [Déclaration de Confidentialité de Microsoft](https://privacy.microsoft.com/en-us/privacystatement) (la « Déclaration de Confidentialité ») qui décrit les types de données que nous collectons auprès de vous et de vos dispositifs, le mode d’utilisation de ces Données et les bases juridiques à notre disposition pour traiter ces Données. La Déclaration de confidentialité décrit aussi comment Microsoft utilise les Éléments Communiqués (définis dans les présentes), les commentaires, les évaluations ou les commentaires sur des Services, communications, fichiers, photos, documents, supports audio, œuvres numériques, streaming en direct, vidéos et tout autre contenu que vous chargez, stockez, diffusez ou partagez via les Services, (collectivement, « Votre Contenu »). Lorsque le traitement repose sur le consentement et dans la mesure permise par la réglementation, en acceptant les présentes Conditions, vous autorisez Microsoft à collecter, utiliser et divulguer Votre Contenu et vos Données, comme décrit dans la Déclaration de Confidentialité. Dans certains cas, nous fournirons un avis distinct et solliciterons votre consentement, comme mentionné dans la Déclaration de Confidentialité.
+La protection de vos données personnelles est importante à nos yeux. Veuillez lire la [Déclaration de Confidentialité de Microsoft](https://privacy.microsoft.com/privacystatement) (la « Déclaration de Confidentialité ») qui décrit les types de données que nous collectons auprès de vous et de vos dispositifs, le mode d’utilisation de ces Données et les bases juridiques à notre disposition pour traiter ces Données. La Déclaration de confidentialité décrit aussi comment Microsoft utilise les Éléments Communiqués (définis dans les présentes), les commentaires, les évaluations ou les commentaires sur des Services, communications, fichiers, photos, documents, supports audio, œuvres numériques, streaming en direct, vidéos et tout autre contenu que vous chargez, stockez, diffusez ou partagez via les Services, (collectivement, « Votre Contenu »). Lorsque le traitement repose sur le consentement et dans la mesure permise par la réglementation, en acceptant les présentes Conditions, vous autorisez Microsoft à collecter, utiliser et divulguer Votre Contenu et vos Données, comme décrit dans la Déclaration de Confidentialité. Dans certains cas, nous fournirons un avis distinct et solliciterons votre consentement, comme mentionné dans la Déclaration de Confidentialité.
 
 **Informations utilisateur et contenu** : Les informations utilisateur que vous fournissez (y compris votre nom d’utilisateur, nom d’affichage, avatar, biographie, votre intitulé de poste et organisation, et vos réalisations en tant qu’utilisateur) peuvent être consultées par d’autres. Il vous suffit de fournir un nom d’utilisateur et un nom d’affichage pour utiliser Tech Profile. Tous les autres champs sont facultatifs. Vous pouvez mettre à jour votre nom d’utilisateur et votre nom d’affichage à tout moment. Microsoft peut également recueillir et afficher publiquement la date que vous avez enregistrée à l’aide de Tech Profile, et votre affiliation à Microsoft.
 
@@ -71,7 +70,7 @@ MICROSOFT ET/OU SES FOURNISSEURS NE POURRONT EN AUCUN CAS ÊTRE TENUS RESPONSABL
 
 Vous pourriez avoir besoin d’un compte Microsoft, d’un compte Azure Active Directory ou d’un compte Tech Profile pour accéder à certains des Services.
 
-**Compte Microsoft**. Votre compte Microsoft vous permet de vous connecter aux produits, sites Web et services fournis par Microsoft et certains partenaires Microsoft. Vous pouvez créer un compte Microsoft en vous inscrivant [en ligne](https://signup.live.com/). Les comptes Microsoft sont soumis au [Contrat de Services Microsoft](https://www.microsoft.com/en-us/servicesagreement/).
+**Compte Microsoft**. Votre compte Microsoft vous permet de vous connecter aux produits, sites Web et services fournis par Microsoft et certains partenaires Microsoft. Vous pouvez créer un compte Microsoft en vous inscrivant [en ligne](https://signup.live.com/). Les comptes Microsoft sont soumis au [Contrat de Services Microsoft](https://www.microsoft.com/servicesagreement/).
 
 **Compte Azure Active Directory.**. Vous avez peut-être un compte Microsoft via l’organisation à laquelle vous appartenez. Veuillez contacter l’administrateur de votre organisation pour plus d’informations sur ce compte.
 

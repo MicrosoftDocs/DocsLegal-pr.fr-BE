@@ -3,8 +3,7 @@ title: Mentions légales Microsoft
 description: 'Informations concernant les Conditions d’utilisation de Microsoft, le RGPD, la Protection de l’information, les Conditions de licence des logiciels, etc.'
 author: GrantMeStrength
 ms.author: jken
-ms.prod: legal
-ms.topic: legal
+ms.service: legal
 ms.date: 11/25/2020
 ---
 
